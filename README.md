@@ -1,4 +1,3 @@
-![logo](https://github.com/HemantGayakwad/HemantGayakwad/blob/main/20240606_061142.jpg)
 
 <h1 align="center">Hi 👋, I'm Hemant Gayakwad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
