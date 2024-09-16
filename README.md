@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hemant Gayakwad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://plus.unsplash.com/premium_photo-1678565869434-c81195861939?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZ3JhbW1lcnN8ZW58MHx8MHx8fDA%3D">
 
